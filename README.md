@@ -1,4 +1,4 @@
-# Symptom Checker
+# JoDs Symptom Checker
 
 JoDs is a web-based symptom checker written in pure ES6 (without using any frameworks). It uses Artificial Intelligence API provided by Infermedica as an engine for symptom analysis.
 
