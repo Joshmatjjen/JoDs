@@ -2,7 +2,7 @@
   "name": "js-symptom-checker-example",
   "version": "1.0.0",
   "repository": "https://github.com/Joshmatjjen/JoDs",
-  "author": "Infermedica Sp. z o.o.",
+  "author": "Joshmat",
   "license": "MIT",
   "engines": {
     "node": "^12.13.0",
