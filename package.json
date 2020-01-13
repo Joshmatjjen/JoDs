@@ -11,7 +11,7 @@
   "scripts": {
     "lint": "eslint ./src",
     "build": "webpack",
-    "dev": "webpack-dev-server"
+    "start": "webpack-dev-server"
   },
   "dependencies": {
     "bootstrap": "4.2.1",
