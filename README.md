@@ -1,6 +1,6 @@
-# Symptom Checker Example
+# Symptom Checker
 
-This is an example of a web-based symptom checker written in pure ES6 (without using any frameworks). It uses Artificial Intelligence API provided by Infermedica as an engine for symptom analysis.
+JoDs is a web-based symptom checker written in pure ES6 (without using any frameworks). It uses Artificial Intelligence API provided by Infermedica as an engine for symptom analysis.
 
 The most recent Infermedica API documentation is available [here](https://developer.infermedica.com/).
 
