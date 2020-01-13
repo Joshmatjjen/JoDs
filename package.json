@@ -11,7 +11,8 @@
   "scripts": {
     "lint": "eslint ./src",
     "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "heroku-prebuild": "npm install --dev"
   },
   "dependencies": {
     "bootstrap": "4.2.1",
