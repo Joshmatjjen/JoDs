@@ -4,10 +4,15 @@
   "repository": "https://github.com/Joshmatjjen/JoDs",
   "author": "Infermedica Sp. z o.o.",
   "license": "MIT",
+  "engines": {
+    "node": "^12.13.0",
+    "yarn": "^1.21.1"
+  },
   "scripts": {
     "lint": "eslint ./src",
     "build": "webpack",
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "start": "./node_modules/webpack/bin/webpack.js -p --progress && node server.js"
   },
   "dependencies": {
     "bootstrap": "4.2.1",
